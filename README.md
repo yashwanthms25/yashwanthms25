@@ -1,85 +1,90 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sankalpa200307.Sankalpa200307" />
+# Hi 👋, I'm Yashwanth M S
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Sankalpa+B+R;Computer+Science+Undergraduate;Aspiring+Software+Engineer&center=true&size=30">
-</h1>
-
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/sankalpa-b-r/" title="LinkedIn">
-      <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> LinkedIn
-    </a>
-  </code>
-  <code>
-    <a href="https://github.com/Sankalpa200307" title="GitHub">
-      <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> GitHub
-    </a>
-  </code>
-  <code>
-    <a href="https://leetcode.com/u/sankalpbr21/" title="LeetCode">
-      <img width="22" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/> LeetCode
-    </a>
-  </code>
-</h5>
-
-<br>
-
-<p align="center">
-  Hi, I'm <b>Sankalpa B R</b>, a Computer Science undergraduate at <b>RV College of Engineering</b>.
-</p>
+🎓 Computer Science and Engineering undergraduate at **MVJ College of Engineering**, Bangalore  
+💡 Aspiring Software Engineer with strong interest in **Machine Learning, Web Development, and Data Analysis**
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎯 Aspiring **Software Development Engineer**, strong in **Data Structures & Algorithms**
-- 💻 Passionate about building **scalable, high-performance, and user-centric applications**
-- 🔐 Hands-on experience in **Blockchain, Cybersecurity, Generative AI**
-- 🤖 Hardware experience with **Arduino, ESP32, Raspberry Pi**
-- 📫 Reach me at: **<a href="mailto:sankalpabr.cs22@rvce.edu.in">sankalpabr.cs22@rvce.edu.in</a>**
+- 🎯 Focused on building practical, data-driven, and scalable software solutions
+- 💻 Hands-on experience in **Machine Learning, Web Development, and AI-based systems**
+- 📊 Interested in applying ML and data analytics to solve real-world problems
+- 📍 Based in Bangalore, Karnataka, India
+
+📫 Reach me at: **yashwanthms2005@gmail.com**
 
 ---
 
-## 🔥 Languages & Tools
+## 🛠️ Skills
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40"/>
-</p>
+### Programming Languages
+- Java  
+- Python  
+
+### Web Technologies
+- HTML  
+- CSS  
+- JavaScript  
+- MySQL  
+
+### Tools & Technologies
+- Git & GitHub  
+- VS Code  
+- Data Structures  
+- Jupyter Notebook  
+- Machine Learning  
+- Power BI  
 
 ---
 
-## ⚡ GitHub Stats
+## 🚀 Projects
 
-<p align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=Sankalpa200307&theme=react&hide_border=true"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Sankalpa200307&show_icons=true&theme=react&hide_border=true"/>
-</p>
+### 🔹 AI-Powered Digital Memory Bank
+**Tech Stack:** Python, NLP, Deep Learning, TensorFlow, Flask  
+- Designed an AI system to store, organize, and retrieve personal memories
+- Implemented conversational AI for semantic memory recall
+- Built search and recommendation features using deep learning models (RNNs)
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa200307&layout=compact&theme=react&hide_border=true"/>
-</p>
+### 🔹 Plant Disease Detection using Machine Learning
+**Tech Stack:** TensorFlow, Keras, CNN, Flask  
+- Developed a CNN model to classify plant leaf diseases with high accuracy
+- Deployed the model as a web application for real-time disease detection
+- Provided disease-specific treatment suggestions to support farmers
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankalpa200307&theme=react-dark&hide_border=true"/>
-</p>
+### 🔹 Violence Detection using CCTV Cameras
+**Tech Stack:** Python, OpenCV, Deep Learning, NumPy, Twilio API  
+- Built a real-time violence detection system using CCTV footage
+- Used deep learning for video frame preprocessing and evidence capture
+- Integrated SMS alert system to notify authorities instantly
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
-Feel free to connect or collaborate 🚀
+## 🎓 Education
+
+**MVJ College of Engineering**  
+B.E. in Computer Science and Engineering (2022 – 2026)  
+📊 GPA: **8.05 / 10**
+
+**Presidency P U College**  
+Pre-University Education (2022)  
+📊 Grade: **88.5%**
+
+---
+
+## 📜 Certifications
+
+- **Introduction to Web Development** – IBM (2024)
+
+---
+
+## 🌐 Languages
+
+- English – Proficient  
+- Kannada – Proficient  
+- Hindi – Intermediate  
+
+---
+
+⭐ Thanks for visiting my profile!  
+Feel free to explore my repositories and connect with me.
