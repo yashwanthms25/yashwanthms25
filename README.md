@@ -7,16 +7,12 @@
 </h1>
 
 <h5 align="center">
-  <code>
     <a href="https://www.linkedin.com/in/yashwanth-m-s/" title="LinkedIn Profile">
       <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn
     </a>
-  </code>
-  <code>
     <a href="https://github.com/yashwanthms25" title="GitHub Profile">
       <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub
     </a>
-  </code>
 </h5>
 
 <br>
@@ -68,22 +64,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI logo" />
 </div>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
-
-<p align="center">
-  <img align="left" width="390" src="https://streak-stats.demolab.com/?user=yashwanthms25&theme=react&hide_border=true" />
-  <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=yashwanthms25&show_icons=true&theme=react&hide_border=true" />
-</p>
-
-<br><br><br><br><br><br><br><br><br>
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthms25&layout=compact&theme=react&hide_border=true" />
-</p>
 
 <br>
 
