@@ -1,90 +1,90 @@
-# Hi 👋, I'm Yashwanth M S
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yashwanthms25.yashwanthms25">
 
-🎓 Computer Science and Engineering undergraduate at **MVJ College of Engineering**, Bangalore  
-💡 Aspiring Software Engineer with strong interest in **Machine Learning, Web Development, and Data Analysis**
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Yashwanth+M+S....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
----
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/yashwanth-m-s/" title="LinkedIn Profile">
+      <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn
+    </a>
+  </code>
+  <code>
+    <a href="https://github.com/yashwanthms25" title="GitHub Profile">
+      <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub
+    </a>
+  </code>
+</h5>
 
-## 👨‍💻 About Me
+<br>
 
-- 🎯 Focused on building practical, data-driven, and scalable software solutions
-- 💻 Hands-on experience in **Machine Learning, Web Development, and AI-based systems**
-- 📊 Interested in applying ML and data analytics to solve real-world problems
-- 📍 Based in Bangalore, Karnataka, India
+<p align="center">
+  Hi, I'm <b>Yashwanth M S</b>, a Computer Science and Engineering undergraduate at
+  <b>MVJ College of Engineering</b>, Bangalore.
+  <br><br>
+  <ul>
+    <li>🎯 Aspiring Software Engineer with strong interest in <b>Machine Learning and Web Development</b>.</li>
+    <li>💻 Passionate about building <b>AI-driven, data-centric, and scalable applications</b>.</li>
+    <li>📊 Experienced in <b>Machine Learning, Data Analysis, and Computer Vision</b>.</li>
+    <li>📫 How to reach me: <a href="mailto:yashwanthms2005@gmail.com">yashwanthms2005@gmail.com</a></li>
+  </ul>
+</p>
 
-📫 Reach me at: **yashwanthms2005@gmail.com**
+<hr>
 
----
+<h2 align="center">🔥 Languages & Tools 🔥</h2>
+<br>
 
-## 🛠️ Skills
+<div align="center">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
 
-### Programming Languages
-- Java  
-- Python  
+  <!-- Web -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img width="12" />
 
-### Web Technologies
-- HTML  
-- CSS  
-- JavaScript  
-- MySQL  
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI logo" />
+</div>
 
-### Tools & Technologies
-- Git & GitHub  
-- VS Code  
-- Data Structures  
-- Jupyter Notebook  
-- Machine Learning  
-- Power BI  
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br>
 
----
+<p align="center">
+  <img align="left" width="390" src="https://streak-stats.demolab.com/?user=yashwanthms25&theme=react&hide_border=true" />
+  <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=yashwanthms25&show_icons=true&theme=react&hide_border=true" />
+</p>
 
-## 🚀 Projects
+<br><br><br><br><br><br><br><br><br>
 
-### 🔹 AI-Powered Digital Memory Bank
-**Tech Stack:** Python, NLP, Deep Learning, TensorFlow, Flask  
-- Designed an AI system to store, organize, and retrieve personal memories
-- Implemented conversational AI for semantic memory recall
-- Built search and recommendation features using deep learning models (RNNs)
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthms25&layout=compact&theme=react&hide_border=true" />
+</p>
 
-### 🔹 Plant Disease Detection using Machine Learning
-**Tech Stack:** TensorFlow, Keras, CNN, Flask  
-- Developed a CNN model to classify plant leaf diseases with high accuracy
-- Deployed the model as a web application for real-time disease detection
-- Provided disease-specific treatment suggestions to support farmers
+<br>
 
-### 🔹 Violence Detection using CCTV Cameras
-**Tech Stack:** Python, OpenCV, Deep Learning, NumPy, Twilio API  
-- Built a real-time violence detection system using CCTV footage
-- Used deep learning for video frame preprocessing and evidence capture
-- Integrated SMS alert system to notify authorities instantly
-
----
-
-## 🎓 Education
-
-**MVJ College of Engineering**  
-B.E. in Computer Science and Engineering (2022 – 2026)  
-📊 GPA: **8.05 / 10**
-
-**Presidency P U College**  
-Pre-University Education (2022)  
-📊 Grade: **88.5%**
-
----
-
-## 📜 Certifications
-
-- **Introduction to Web Development** – IBM (2024)
-
----
-
-## 🌐 Languages
-
-- English – Proficient  
-- Kannada – Proficient  
-- Hindi – Intermediate  
-
----
-
-⭐ Thanks for visiting my profile!  
-Feel free to explore my repositories and connect with me.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthms25&theme=react-dark&hide_border=true" width="100%"/>
