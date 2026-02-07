@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-    <a href="https://www.linkedin.com/in/yashwanth-m-s/" title="LinkedIn Profile">
+    <a href="https://www.linkedin.com/in/yashwanth-m-s-b4a44327a/" title="LinkedIn Profile">
       <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn
     </a>
     <a href="https://github.com/yashwanthms25" title="GitHub Profile">
